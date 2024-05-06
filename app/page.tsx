@@ -8,10 +8,8 @@ export default async function Home() {
     <>
       <section id='intro' className='mt-8'>
         <p>
-          Hi there, I&apos;m <b>Leo</b>. 
-          I&apos;m a 19 y/o Software Engineering student at <a target='_blank' href='https://www.port.ac.uk/'><b>UoP</b></a>.
-          I&apos;ve have a love for <b>cooking</b> and <b>building things</b>.
-          I enjoy <b>web development</b>, creating fun <b>APIs</b> with <b>Rust</b>, and everything else <b>code</b>. 
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
         </p>
       </section>
       <Projects />

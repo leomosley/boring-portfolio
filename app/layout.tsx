@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: `Portfolio • ${process.env.GITHUB_USERNAME}`,
-  description: 'Software Engineering Student portfolio',
+  description: 'Boring portfolio',
   icons: {
     icon: '/icon.png'
   }
